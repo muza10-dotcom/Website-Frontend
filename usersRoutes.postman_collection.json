@@ -172,7 +172,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://blogging-backend-k6f2.onrender.com/api/users",
+					"raw": "http://localhost:3001/api/users",
 					"protocol": "https",
 					"host": [
 						"blogging-backend-k6f2",
